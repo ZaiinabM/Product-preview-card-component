@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Live url](http://127.0.0.1:5500/index.html)
 
 ### Built with
 
