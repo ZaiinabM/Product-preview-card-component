@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://zaiinabm.github.io/Product-preview-card-component/)
-- Live Site URL: [Live url](file:///C:/Users/Zainab/Downloads/product-preview-card-component-main/product-preview-card-component-main/index.html)
+- Live Site URL: [Live url]()
 
 ### Built with
 
