@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://zaiinabm.github.io/Product-preview-card-component/)
 - Live Site URL: [Live url](http://127.0.0.1:5500/index.html)
 
 ### Built with
